@@ -1,4 +1,4 @@
 # Android-Controlled-Tank
 Android Controlled Tank
 
-[![](https://www.youtube.com/watch?v=bPU7KLT9PRw)]()
+[![](https://youtu.be/bPU7KLT9PRw)]()
